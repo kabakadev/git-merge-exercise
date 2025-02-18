@@ -1,1 +1,1 @@
-new alterance
+altered file to create merge conflicts
