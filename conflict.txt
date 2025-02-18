@@ -1,1 +1,1 @@
-This is a conflicting change by the Team Lead
+This is a new change by the Team Lead
