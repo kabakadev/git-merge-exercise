@@ -1,1 +1,1 @@
-Merge Conflict Exercise
+This is a conflicting change by the Team Lead
