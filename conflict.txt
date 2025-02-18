@@ -1,1 +1,4 @@
-altered file to create merge conflicts
+
+Merge Conflict Exercise
+john. gaitho.
+hello word'
